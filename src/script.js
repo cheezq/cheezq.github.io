@@ -1,3 +1,4 @@
+// Splash Screen
 let intro = document.querySelector('.intro')
 let intro_welcome = document.querySelector('.intro-welcome')
 let welcome = document.querySelectorAll('.welcome')
@@ -24,3 +25,6 @@ window.addEventListener('DOMContentLoaded', () => {
         }, 2200)
     })
 })
+
+
+
